@@ -1,2 +1,1 @@
-## Owner avatar
-SQL_Data_Analyst_Project
+## SQL_Data_Analyst_Project
